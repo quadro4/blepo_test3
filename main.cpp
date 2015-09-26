@@ -2,7 +2,7 @@
 
 
 //Vs2012 update4 multi-bytes
-
+//command line parameter for test: 2.0  cherrypepsi.jpg   cherrypepsi_template.jpg 
 
 #include <afxwin.h>  // necessary for MFC to work properly
 #include <math.h> 
