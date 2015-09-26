@@ -356,7 +356,7 @@ void connect_binary_cross( const ImgBinary &img_hi, const ImgBinary &img_lo, con
 
 
 
-
+/* //not use
 void connect_outline3x3( const ImgBinary &img_hi, const ImgBinary &img_lo, const int x, const int y, ImgBinary* img_out )
 {
 
@@ -536,7 +536,7 @@ void connect_outline3x3( const ImgBinary &img_hi, const ImgBinary &img_lo, const
 	}//for y
 
 }
-
+*/
 
 //bubble sort
 int bub_sort(ImgFloat* sort_operating , const int s_length)
